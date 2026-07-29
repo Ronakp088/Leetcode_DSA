@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
