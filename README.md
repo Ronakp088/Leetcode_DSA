@@ -56,8 +56,17 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
