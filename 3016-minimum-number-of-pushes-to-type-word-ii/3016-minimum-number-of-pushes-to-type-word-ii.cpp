@@ -5,7 +5,6 @@ public:
         vector<int> arr(26);
         priority_queue<int> pq;
         int ans = 0;
-
         for (int i = 0; i < n; i++) {
             arr[word[i] - 'a']++;
         }
