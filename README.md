@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
@@ -77,6 +78,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
