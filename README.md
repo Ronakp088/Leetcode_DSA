@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
@@ -80,6 +81,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
@@ -96,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
