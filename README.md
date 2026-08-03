@@ -91,6 +91,7 @@
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 ## Stack
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
