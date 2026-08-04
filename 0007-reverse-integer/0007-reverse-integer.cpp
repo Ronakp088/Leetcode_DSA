@@ -14,7 +14,7 @@ public:
         if(temp > INT_MAX ) return 0;
         }
         long long check = flag*temp;
-        if(temp > INT_MAX || temp < INT_MIN) return 0;
+        if(check > INT_MAX || check < INT_MIN) return 0;
         return check ;
 
     }
