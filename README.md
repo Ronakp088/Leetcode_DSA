@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
