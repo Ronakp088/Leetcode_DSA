@@ -70,6 +70,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0295-find-median-from-data-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -102,6 +104,7 @@
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Counting
