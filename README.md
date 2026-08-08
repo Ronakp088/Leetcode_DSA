@@ -61,6 +61,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -77,6 +78,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -160,6 +162,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 ## Game Theory
 |  |
@@ -186,6 +189,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
