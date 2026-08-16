@@ -10,6 +10,7 @@
 | [0057-insert-interval](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0057-insert-interval) |
 | [0134-gas-station](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -119,6 +121,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -152,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
@@ -233,4 +237,12 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
