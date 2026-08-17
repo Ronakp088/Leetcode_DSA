@@ -127,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0038-count-and-say) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
