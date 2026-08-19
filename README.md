@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
