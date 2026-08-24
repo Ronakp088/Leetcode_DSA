@@ -76,6 +76,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -100,6 +101,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -233,6 +235,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -267,4 +270,12 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
