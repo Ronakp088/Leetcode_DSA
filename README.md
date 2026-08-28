@@ -81,6 +81,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2236-root-equals-sum-of-children](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Design
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2236-root-equals-sum-of-children](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Data Stream
 |  |
 | ------- |
