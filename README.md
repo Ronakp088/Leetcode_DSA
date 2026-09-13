@@ -99,6 +99,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
@@ -120,6 +121,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
@@ -254,6 +257,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -305,6 +309,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -319,6 +324,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
