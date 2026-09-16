@@ -15,6 +15,7 @@
 | [0179-largest-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
@@ -52,6 +53,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0846-hand-of-straights) |
@@ -65,6 +67,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -119,6 +122,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -390,4 +394,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
