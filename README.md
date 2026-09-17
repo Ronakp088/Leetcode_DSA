@@ -26,6 +26,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -128,6 +129,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +271,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
