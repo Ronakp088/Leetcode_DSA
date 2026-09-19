@@ -25,6 +25,7 @@
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
@@ -344,6 +345,7 @@
 | [0547-number-of-provinces](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
@@ -415,6 +417,7 @@
 | [0200-number-of-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
