@@ -181,6 +181,7 @@
 | [0836-rectangle-overlap](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -195,6 +196,7 @@
 | [0223-rectangle-area](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## String
 |  |
 | ------- |
