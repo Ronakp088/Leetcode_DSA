@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
@@ -282,6 +283,7 @@
 | [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -351,6 +353,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
@@ -428,6 +431,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
