@@ -32,6 +32,7 @@
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -356,6 +357,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -375,6 +377,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
@@ -453,6 +456,7 @@
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
@@ -462,6 +466,7 @@
 | [0547-number-of-provinces](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
