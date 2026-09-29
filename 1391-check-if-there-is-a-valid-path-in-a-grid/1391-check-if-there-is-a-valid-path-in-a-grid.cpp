@@ -32,7 +32,7 @@ public:
             }
         }
 
-        if(grid[r][t] == 2){
+        else if(grid[r][t] == 2){
             if(r+1 < n && !visi[r+1][t] &&
                (grid[r+1][t] == 2 || grid[r+1][t] == 5 || grid[r+1][t] == 6)){
                 visi[r+1][t] = 1;
@@ -46,7 +46,7 @@ public:
             }
         }
 
-        if(grid[r][t] == 3){
+        else if(grid[r][t] == 3){
             if(r+1 < n && !visi[r+1][t] &&
                (grid[r+1][t] == 2 || grid[r+1][t] == 5 || grid[r+1][t] == 6)){
                 visi[r+1][t] = 1;
@@ -60,7 +60,7 @@ public:
             }
         }
 
-        if(grid[r][t] == 4){
+        else if(grid[r][t] == 4){
             if(r+1 < n && !visi[r+1][t] &&
                (grid[r+1][t] == 2 || grid[r+1][t] == 5 || grid[r+1][t] == 6)){
                 visi[r+1][t] = 1;
@@ -74,7 +74,7 @@ public:
             }
         }
 
-        if(grid[r][t] == 5){
+        else if(grid[r][t] == 5){
             if(r-1 >= 0 && !visi[r-1][t] &&
                (grid[r-1][t] == 2 || grid[r-1][t] == 3 || grid[r-1][t] == 4)){
                 visi[r-1][t] = 1;
@@ -88,7 +88,7 @@ public:
             }
         }
 
-        if(grid[r][t] == 6){
+        else if(grid[r][t] == 6){
             if(r-1 >= 0 && !visi[r-1][t] &&
                (grid[r-1][t] == 2 || grid[r-1][t] == 3 || grid[r-1][t] == 4)){
                 visi[r-1][t] = 1;
