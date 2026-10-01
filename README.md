@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
@@ -302,6 +303,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -511,6 +513,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
