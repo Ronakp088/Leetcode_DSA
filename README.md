@@ -8,6 +8,7 @@
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0134-gas-station) |
@@ -297,6 +298,7 @@
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
@@ -468,6 +470,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
