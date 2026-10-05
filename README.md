@@ -225,6 +225,7 @@
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -317,6 +318,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -529,6 +531,7 @@
 | [0022-generate-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
