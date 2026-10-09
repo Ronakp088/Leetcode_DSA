@@ -230,6 +230,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -259,6 +260,7 @@
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -327,6 +329,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Game Theory
 |  |
@@ -542,6 +545,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Directed Acyclic Graph
