@@ -226,6 +226,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
@@ -343,6 +345,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -424,6 +427,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -562,4 +566,20 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
