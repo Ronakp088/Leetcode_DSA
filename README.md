@@ -52,6 +52,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -79,6 +80,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -274,6 +276,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
