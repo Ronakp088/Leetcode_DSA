@@ -238,6 +238,7 @@
 | [0022-generate-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -291,6 +292,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -424,6 +426,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0200-number-of-islands) |
@@ -612,4 +615,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
