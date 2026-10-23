@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0860-lemonade-change) |
@@ -83,6 +84,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -250,6 +252,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -305,6 +308,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
@@ -423,6 +427,7 @@
 | [0547-number-of-provinces](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
@@ -453,6 +458,7 @@
 | [0547-number-of-provinces](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
@@ -555,6 +561,7 @@
 | [0200-number-of-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
