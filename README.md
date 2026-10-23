@@ -55,6 +55,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -380,6 +381,7 @@
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
