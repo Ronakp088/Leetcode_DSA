@@ -57,6 +57,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -442,6 +443,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -474,6 +476,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## DP on Trees
 |  |
 | ------- |
@@ -560,6 +563,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -573,6 +577,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
