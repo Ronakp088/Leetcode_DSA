@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0135-candy) |
@@ -353,6 +354,7 @@
 | [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0509-fibonacci-number) |
