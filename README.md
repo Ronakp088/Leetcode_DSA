@@ -26,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0621-task-scheduler) |
@@ -362,6 +363,7 @@
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -656,6 +658,7 @@
 | [0022-generate-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -710,8 +713,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
