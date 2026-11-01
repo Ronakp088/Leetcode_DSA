@@ -45,6 +45,7 @@
 | [1046-last-stone-weight](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1386-cinema-seat-allocation](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -376,6 +377,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0877-stone-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -588,6 +590,7 @@
 | [1020-number-of-enclaves](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ronakp088/Leetcode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ronakp088/Leetcode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
