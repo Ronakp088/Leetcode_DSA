@@ -22,6 +22,7 @@
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -366,6 +367,7 @@
 | [0120-triangle](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0509-fibonacci-number) |
@@ -722,6 +724,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -732,5 +735,6 @@
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
