@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
@@ -323,6 +324,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
