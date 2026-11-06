@@ -274,6 +274,7 @@
 | [0022-generate-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0127-word-ladder) |
@@ -385,6 +386,7 @@
 | [0062-unique-paths](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0322-coin-change) |
