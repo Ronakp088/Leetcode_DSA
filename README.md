@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -574,6 +575,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ronakp088/Leetcode_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Lifting
@@ -619,6 +621,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ronakp088/Leetcode_DSA/tree/master/0130-surrounded-regions) |
